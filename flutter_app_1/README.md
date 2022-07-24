@@ -9,3 +9,5 @@ Se probó la ejecución de la aplicación en un emulador de un dispositivo Andro
 ![R&M](https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S2.png)
 ![R&M](https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S3.png)
 ![R&M](https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S4.png)
+
+<img src="https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S1.png" height="100" title="hover text">
