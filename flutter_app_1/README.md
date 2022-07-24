@@ -1,16 +1,11 @@
-# flutter_app_1
+Actividad: Consumo de una API REST en una aplicación móvil.
 
-A new Flutter project.
+*La aplicación diseñada consume los datos de la API provista mostrando como resultado los personajes y su nombre en una primera pantalla. 
 
-## Getting Started
+*Al hacer clic en un personaje, se despliega una nueva pestaña mostrando información relevante del personaje. 
+Se probó la ejecución de la aplicación en un emulador de un dispositivo Android, de la cual se obtuvieron las capturas de pantalla. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s1.png?raw=true)
+![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s2.png?raw=true)
+![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s3.png?raw=true)
+![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s4.png?raw=true)
