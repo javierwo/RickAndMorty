@@ -5,7 +5,7 @@ Actividad: Consumo de una API REST en una aplicación móvil.
 *Al hacer clic en un personaje, se despliega una nueva pestaña mostrando información relevante del personaje. 
 Se probó la ejecución de la aplicación en un emulador de un dispositivo Android, de la cual se obtuvieron las capturas de pantalla. 
 
-![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s1.png?raw=true)
-![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s2.png?raw=true)
-![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s3.png?raw=true)
-![R&M](https://github.com/[javierwo]/[RickAndMorty]/blob/[master]/s4.png?raw=true)
+![R&M](https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S1.png)
+![R&M](https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S2.png)
+![R&M](https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S3.png)
+![R&M](https://github.com/javierwo/RickAndMorty/blob/master/flutter_app_1/screenshots/S4.png)
